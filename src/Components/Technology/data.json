@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "image": "/images/bootstrap.png",
+    "altText": "Bootstrap"
+  },
+  {
+    "id": 2,
+    "image": "/images/css3.png",
+    "altText": "css3"
+  },
+  {
+    "id": 3,
+    "image": "/images/digitalOcean.png",
+    "altText": "digitalOcean"
+  },
+  {
+    "id": 4,
+    "image": "/images/express.png",
+    "altText": "express"
+  },
+  {
+    "id": 5,
+    "image": "/images/firebase.png",
+    "altText": "firebase"
+  },
+  {
+    "id": 6,
+    "image": "/images/git.png",
+    "altText": "git"
+  },
+  {
+    "id": 7,
+    "image": "/images/github.png",
+    "altText": "github"
+  },
+  {
+    "id": 8,
+    "image": "/images/hbs.png",
+    "altText": "hbs"
+  },
+  {
+    "id": 9,
+    "image": "/images/heroku.png",
+    "altText": "heroku"
+  },
+  {
+    "id": 10,
+    "image": "/images/html5.png",
+    "altText": "html5"
+  },
+  {
+    "id": 11,
+    "image": "/images/javascript.png",
+    "altText": "javascript"
+  },
+  {
+    "id": 12,
+    "image": "/images/jquery.png",
+    "altText": "jquery"
+  },
+  {
+    "id": 13,
+    "image": "/images/markdown.png",
+    "altText": "markdown"
+  },
+  {
+    "id": 14,
+    "image": "/images/mongoDB.png",
+    "altText": "mongoDB"
+  },
+  {
+    "id": 15,
+    "image": "/images/mysql.png",
+    "altText": "mysql"
+  },
+  {
+    "id": 16,
+    "image": "/images/node.png",
+    "altText": "node"
+  },
+  {
+    "id": 17,
+    "image": "/images/npm.png",
+    "altText": "npm"
+  },
+  {
+    "id": 18,
+    "image": "/images/react.png",
+    "altText": "react"
+  },
+  {
+    "id": 19,
+    "image": "/images/sqlServerLogo.png",
+    "altText": "sqlServerLogo"
+  },
+  {
+    "id": 20,
+    "image": "/images/wpLogo.png",
+    "altText": "wpLogo"
+  }
+]

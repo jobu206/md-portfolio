@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine|Playfair+Display&display=swap');
+.landingText {
+  position: center;
+  flex-direction: row;
+  font-family: 'Tangerine', cursive;
+  font-size: 4em;
+  padding: 5em 0em 9em 0em;
+}
+
+.minorText {
+  font-size: 30%;
+  font-family: 'Playfair Display', serif;
+  color: gray;
+}
+
+/* Mobile Devices */
+
+@media only screen and (max-width: 768px) {
+  .landingText {
+    font-size: 40px;
+    padding: 9em 0em 9em 0em;
+  }
+}
