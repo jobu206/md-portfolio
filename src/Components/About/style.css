@@ -1,14 +1,12 @@
-/* h1 {
-  text-shadow: 2px 2px 3px #000;
-  color: #ff7300d3;
-} */
+h1 {
+  text-shadow: 1px 1px 2px #535353;
+}
 
 .about-me {
   text-align: left;
 }
 
 .jumbotron {
-  /* opacity: 0.75; */
   font-size: 20px;
   overflow: hidden;
 }
