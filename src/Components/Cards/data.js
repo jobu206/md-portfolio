@@ -17,7 +17,7 @@ export default {
     {
       image: Burgers,
       title: 'Eat The Burgers',
-      description: 'Full Stack Web App to help you find your new best friend.',
+      description: "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.",
       ghUrl: 'https://github.com/jobu206/Eat-Da-Burger',
       projUrl: 'https://eatdaburger206.herokuapp.com/'
     },
