@@ -10,7 +10,6 @@ const Resume = () => {
         className={myStyle.a}
         gist='jobu206/83f1c3479a353b4f7ede00cebff5abaf'
       />
-      ;
     </Container>
   );
 };
