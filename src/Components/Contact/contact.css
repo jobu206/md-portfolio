@@ -3,3 +3,7 @@
   /* text-decoration: dotted; */
   border-bottom: grey 1px dotted;
 }
+
+.pr-2 {
+  color: #424242;
+}
