@@ -30,7 +30,7 @@ const Contact = () => {
               <li className='list-inline-item mt-2'>
                 <a href='mailto:kevin@kevinleroy.me'>
                   <FaEnvelope className='pr-2 fa-2x' />
-                  <span className='contact'>kevinleroy@live.com</span>
+                  <span className='contact'>kevin@kevinleroy.me</span>
                 </a>
               </li>
             </ul>
