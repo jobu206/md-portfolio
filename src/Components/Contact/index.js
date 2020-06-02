@@ -28,7 +28,7 @@ const Contact = () => {
             </ul>
             <ul className='list-inline'>
               <li className='list-inline-item mt-2'>
-                <a href='mailto:kevinleroy@live.com'>
+                <a href='mailto:kevin@kevinleroy.me'>
                   <FaEnvelope className='pr-2 fa-2x' />
                   <span className='contact'>kevinleroy@live.com</span>
                 </a>
@@ -37,7 +37,7 @@ const Contact = () => {
             <ul className='list-inline'>
               <li className='list-inline-item mt-2'>
                 <a
-                  href='https://github.com/jobu206'
+                  href='https://github.com/klleroy'
                   target='_blank'
                   rel='noopener noreferrer'
                 >

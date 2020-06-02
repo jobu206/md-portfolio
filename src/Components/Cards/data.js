@@ -11,14 +11,14 @@ export default {
       image: Friend,
       title: 'Friend Finder',
       description: 'Full Stack Web App to help you find your new best friend.',
-      ghUrl: 'https://github.com/jobu206/FriendFinder/',
+      ghUrl: 'https://github.com/klleroy/FriendFinder/',
       projUrl: 'https://supervillainfriends.herokuapp.com/'
     },
     {
       image: Burgers,
       title: 'Eat The Burgers',
       description: "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.",
-      ghUrl: 'https://github.com/jobu206/Eat-Da-Burger',
+      ghUrl: 'https://github.com/klleroy/Eat-Da-Burger',
       projUrl: 'https://eatdaburger206.herokuapp.com/'
     },
     {
@@ -26,7 +26,7 @@ export default {
       title: 'Mongo News Scraper',
       description:
         'A web app that lets users view and leave comments on the latest news showcasing our Mongoose and Cheerio skills.',
-      ghUrl: 'https://github.com/jobu206/MongoNewsScraper',
+      ghUrl: 'https://github.com/klleroy/MongoNewsScraper',
       projUrl: 'https://mongonews206.herokuapp.com/'
     },
     {
@@ -34,7 +34,7 @@ export default {
       title: 'Park Smart',
       description:
         'ParkSmart is solving the parking problems of Urban areas one driveway at a time.',
-      ghUrl: 'https://github.com/jobu206/ParkSmart',
+      ghUrl: 'https://github.com/klleroy/ParkSmart',
       projUrl: 'https://parksmart206.herokuapp.com/'
     },
     {
@@ -42,16 +42,16 @@ export default {
       title: 'Remember Me',
       description:
         "React Application - Click on an image to earn points, but don't click on any more than once!",
-      ghUrl: 'https://github.com/jobu206/remember-me',
-      projUrl: 'https://jobu206.github.io/remember-me/'
+      ghUrl: 'https://github.com/klleroy/remember-me',
+      projUrl: 'https://klleroy.github.io/remember-me/'
     },
     {
       image: Train,
       title: 'Train Scheduler',
       description:
         'Scheduling App for fictional Trains utilizing the JavaScript Library moment.js to calculate various moments in time. The purpose of this is to showcase the mathmatical power of JS.',
-      ghUrl: 'https://github.com/jobu206/TrainScheduler',
-      projUrl: 'https://jobu206.github.io/TrainScheduler'
+      ghUrl: 'https://github.com/klleroy/TrainScheduler',
+      projUrl: 'https://klleroy.github.io/TrainScheduler'
     }
   ]
 };
